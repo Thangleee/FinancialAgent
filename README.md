@@ -15,10 +15,10 @@ Người dùng có thể truy vấn dữ liệu giá cổ phiếu (OHLCV), thôn
 - uvicorn
 
 ## Chạy FastAPI
-uvicorn Financial:app --reload
-Mở trình duyệt tới http://127.0.0.1:8000/docs để thử API.
+- uvicorn Financial:app --reload
+- Mở trình duyệt tới http://127.0.0.1:8000/docs để thử API.
 
 ## Test tự động
-File test_questions.json: chứa câu hỏi và câu trả lời kỳ vọng
-Run:
+- File test_questions.json: chứa câu hỏi và câu trả lời kỳ vọng
+- Run:
 python test_agent.py
