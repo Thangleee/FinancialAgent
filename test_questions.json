@@ -1,7 +1,7 @@
 [
   {
     "question": "Tổng khối lượng giao dịch (volume) của mã VIC trong vòng 1 tuần gần đây",
-    "expected_answer": ["24.402.200", "VIC", "1 tuần"]
+    "expected_answer": ["20.402.000", "VIC", "1 tuần"]
   },
   {
     "question": "Trong các mã BID, TCB và VCB mã nào có giá mở cửa thấp nhất trong 10 ngày qua",
