@@ -21,4 +21,5 @@ Người dùng có thể truy vấn dữ liệu giá cổ phiếu (OHLCV), thôn
 ## Test tự động
 - File test_questions.json: chứa câu hỏi và câu trả lời kỳ vọng
 - Run:
+
 python test_agent.py
