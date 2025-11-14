@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Tổng khối lượng giao dịch (volume) của mã VIC trong vòng 1 tuần gần đây",
+    "expected_answer": ["24.402.200", "VIC", "1 tuần"]
+  },
+  {
+    "question": "Trong các mã BID, TCB và VCB mã nào có giá mở cửa thấp nhất trong 10 ngày qua",
+    "expected_answer": ["TCB", "34.000 VND"]
+  },
+  {
+    "question": "Các công ty con thuộc VCB",
+    "expected_answer": ["Công ty TNHH Tài Chính Việt Nam Tại Hồng Kông", "Công Ty Liên Doanh Trách Nhiệm Hữu Hạn Vietcombank-bonday" ]
+  }
+]
